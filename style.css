@@ -247,10 +247,10 @@ button{
 }
 
 figcaption{
-    font-size:5px;
+    font-size:7px;
     font-style:arial;
     margin-left:18px;
-    margin-top:-12px;
+    margin-top:-10px;
     font-weight:bold;
     max-width:40px;
     overflow-x:scroll;
@@ -581,7 +581,8 @@ li:active{
 }
 
 
-.boxcontainer{
+.boxcontainer{
+
   background-size: cover;
   display: flex;
   align-items: center;
@@ -624,7 +625,8 @@ li:active{
   width: 22px;
   height: 22px;
   background: silver;
-  border-radius: 50%;  
+  border-radius: 50%;
+  
 }
 
 #customers {
@@ -796,11 +798,13 @@ footer{
 }
 
 .google-logo{
-    width: 80%;
+    width: 80%;
+
     margin-left: auto;
     margin-top:20%;
     font-size:60px;
-    background-position: center;   
+    background-position: center;
+   
     font-family:arial;
     font-weight:500;
 }
